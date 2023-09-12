@@ -2,9 +2,11 @@
 
 ## Recipes
 Introduction to HTML and CSS to make a recipe website. Incorporating into the project the most common elements of both HTML and CSS.
+
 ## Screenshots
-![My Basic Odin Recipe Site](<Screen Shot 2023-09-12 at 11.14.52 AM.png>)
 Include one screen shot of the webpage created.
+![My Basic Odin Recipe Site](<Screen Shot 2023-09-12 at 11.14.52 AM.png>)
+
 ## Tech/Framework used
 HTML and CSS
 ## What I learned
